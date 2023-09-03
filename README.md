@@ -17,17 +17,10 @@ Mastering AI-driven development to enhance and optimize scalable solutions.
 
 Diving deeper into Kubernetes and containerization technologies.
 
-## 👯 I’m looking to collaborate on
-
-Open-source projects, particularly those focused on React or Domain Driven Design.
-
-## 🤔 I’m looking for help with
-
-Learning more about microservices architecture.
 
 ## 💬 Ask me about
 
-Anything related to React, NodeJS, or Domain Driven Design.
+Anything related to React, Angualar, NodeJS, or Domain Driven Design.
 
 ## 📫 How to reach me
 
