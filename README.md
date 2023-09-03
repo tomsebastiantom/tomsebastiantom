@@ -13,10 +13,9 @@ As a value-driven developer, I specialize in both frontend and backend technolog
 Mastering AI-driven development to enhance and optimize scalable solutions.
 
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently learning 
 
-Diving deeper into Kubernetes and containerization technologies.
-
+The fastest way to learn to write scalable,testable code fast on any side of the stack...
 
 ## 💬 Ask me about
 
