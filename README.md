@@ -38,7 +38,7 @@ He/Him
 
 ## ⚡ Fun fact
 
-I can solve a Rubik's cube in under a minute.
+I cannot reveal it here Oops
 
 ---
 
