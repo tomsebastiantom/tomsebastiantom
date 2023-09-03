@@ -10,7 +10,8 @@ As a value-driven developer, I specialize in both frontend and backend technolog
 
 ## 🔭 I’m currently working on
 
-Enhancing a comprehensive security guard management system, implementing new features for both frontend and backend.
+Mastering AI-driven development to enhance and optimize scalable solutions.
+
 
 ## 🌱 I’m currently learning
 
