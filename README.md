@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Tom Sebastian (TSK)
 
 📧 Contact: [tomsebastiantom@gmail.com](mailto:tomsebastiantom@gmail.com)
 
@@ -60,14 +60,11 @@ I cannot reveal it here Oops
 ## Contact Me 📞
 
 - 📧 Email: [tomsebastiantom@gmail.com](mailto:tomsebastiantom@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 🌐 Portfolio: [Your Portfolio Website](#)
+- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/tom-sebastian-tom/).
 
 ---
 
 ## Find me around the web 🌎:
 
-- [Twitter](#) 🐤
-- [Instagram](#) 📷
-- [LinkedIn](#) 👔
+- [LinkedIn](https://www.linkedin.com/in/tom-sebastian-tom/) 👔
 
