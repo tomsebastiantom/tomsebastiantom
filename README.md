@@ -16,7 +16,7 @@ Mastering AI-driven development to enhance and optimize scalable solutions.
 
 ## 🌱 I’m currently learning 
 
-The fastest way to write scalable,testable code fast on any side of the stack...
+Artifical Intelligence before it takes over my job.  lol ...
 
 ## 💬 Ask me about
 
