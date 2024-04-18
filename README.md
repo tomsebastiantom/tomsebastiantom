@@ -16,7 +16,7 @@ Mastering AI-driven development to enhance and optimize scalable solutions.
 
 ## 🌱 I’m currently learning 
 
-Artifical Intelligence before it takes over my job.  lol ...
+Artifical Intelligence   lol ...
 
 ## 💬 Ask me about
 
