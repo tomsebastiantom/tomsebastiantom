@@ -32,7 +32,7 @@ He/Him
 
 ## ⚡ Fun fact
 
-I cannot reveal it here Oops
+I love learning random things.
 
 ---
 
