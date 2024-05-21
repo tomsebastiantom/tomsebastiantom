@@ -39,7 +39,7 @@ I cannot reveal it here Oops
 ## Skills 💼
 
 - **Frontend:** React, Redux, Next.JS, Angular 8,14, RxJS
-- **Backend:** NodeJS/Express, Python, FastAPI
+- **Backend:** NodeJS/Express, Python, FastAPI, Golang
 - **Mobile:** React Native, Cordova, Capacitor
 - **Database:** Redis, Postgres, MongoDB, SQL/NoSQL
 - **DevOps:** Kubernetes, Docker, Black blaze
