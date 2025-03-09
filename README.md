@@ -20,32 +20,6 @@ Whether it's wrangling React state, mastering Angular magic, engineering Node.js
 
 ---
 
-## 💡 Recent Adventures (Professional Experience):
-
-### 🏢 **Senior Developer @ Rizing LLC, Toronto (Feb 2024 - Present)**
-- Built a blazing-fast data collection app using Angular 17, NX monorepo, NestJS, PostgreSQL, and Azure AKS (Kubernetes).
-- Reduced feature dev time by **40%**, accelerated deployments by **30%**, and achieved **99.9% availability**.
-- Optimized ETL pipelines with Azure Data Factory, cutting execution time by **70%**—less waiting, more coding!
-
-### 🏢 **Web Developer @ Boyd Interactive, Toronto (Aug 2022 - Feb 2024)**
-- Created real-time notification systems boosting customer engagement by **30%**.
-- Built reusable Angular packages for seamless payment gateway integrations—making transactions smoother than butter on toast.
-
-### 🏢 **Full Stack Developer @ Techster Technologies, Vancouver (Apr 2023 - Nov 2023)**
-- Developed secure, scalable, multi-tenant APIs with Node.js, Express, JWT, and Redis caching.
-- Crafted intuitive React UIs, optimized for speed and user delight.
-- Automated deployments with GitHub Actions—because manual deployments are so last decade.
-
-### 🏢 **Software Developer @ Group Security, Vancouver (2021 - 2022)**
-- Built video alarm systems with Python, Flask, React, and PostgreSQL.
-- Delivered RESTful APIs and dashboards using Node.js, React, Redux, and Next.js.
-
-### 🏢 **Software Developer @ Vinclis Technologies, India (Aug 2017 - Dec 2018)**
-- Engineered AWS-hosted Django APIs and responsive React frontends.
-- Collaborated closely with QA to ensure top-notch code quality.
-
----
-
 ## 🌱 My Tech Playground (The More, The Merrier!):
 
 - **Frontend:** React, Redux, Next.js, Angular (8-17), RxJS
